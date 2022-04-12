@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @w2fly
-- 👀 I’m interested in data mining, quadcopters, arduino
+- 👀 I’m interested in data mining, arduino, short/clip programming
 - 🌱 I’m currently learning Python and a little bit of everything
 - 💞️ I’m looking to collaborate on none. I am an old and very non-standard programmer.
 - 📫 How to reach me - here
